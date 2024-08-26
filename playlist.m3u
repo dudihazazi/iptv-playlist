@@ -1,0 +1,109 @@
+#EXTM3U
+
+###### NASIONAL ################
+#EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-logo="https://i.imgur.com/bUfeG7Y.png" group-title="Nasional",CNBC Indonesia (720p)
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://en.wikipedia.org/wiki/CNN_Indonesia#/media/File:CNN_Indonesia_logo_(2023).svg" group-title="Nasional",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="GTV" tvg-logo="https://en.wikipedia.org/wiki/GTV_%28Indonesian_TV_network%29#/media/File:GTV_(2017).svg" group-title="Nasional",GTV
+https://list.iptvcat.com/my_list/s/40f59089e00b5fea1e922ecc41b4b014.m3u8
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://i.imgur.com/bD6UHeZ.png" group-title="Nasional",Kompas TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UC5BMIWZe9isJXLZZWPWvBlg.m3u8
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="Nasional",Metro TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCzl0OrB3-ehunyotIQvK77A.m3u8
+#EXTINF:-1 tvg-id="NET.id" tvg-logo="https://i.imgur.com/RPT8O12.png" group-title="Nasional",NET. [Not 24/7]
+https://ythls.armelin.one/channel/UC1-ATnDVEwKT6-0aEeJ2ibA.m3u8
+#EXTINF:-1 tvg-id="RajawaliTV.id" tvg-logo="https://i.imgur.com/dlsv1sl.png" group-title="Nasional",Rajawali TV
+https://cdn09jtedge.indihometv.com/joss/130/rtv/index.m3u8
+#EXTINF:-1 tvg-id="RCTI" tvg-logo="https://en.wikipedia.org/wiki/RCTI#/media/File:RCTI_2015.svg" group-title="Nasional",RCTI
+https://list.iptvcat.com/my_list/s/40f59089e00b5fea1e922ecc41b4b014.m3u8
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="Nasional",Trans7 (720p)
+https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="Nasional",Trans TV (720p)
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+#EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://i.imgur.com/LCzQYdy.png" group-title="Nasional",tvOne (1080p)
+https://ythls.armelin.one/channel/UCER4rvDnRBPr_ncYW4UCZjg.m3u8
+#EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="Nasional",TVRI Nasional (720p)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
+#EXTINF:-1 tvg-id="TVRISport.id" tvg-logo="https://i.postimg.cc/rFKcGqwx/TVRI-Sport-2022.png" group-title="Nasional",TVRI Sport (720p)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+#EXTINF:-1 tvg-id="VTV.id" tvg-logo="https://en.wikipedia.org/wiki/VTV_%28Indonesia%29#/media/File:VTV_Indonesia_2023.svg" group-title="Nasional", VTV
+https://flv.intechmedia.net/live/ch107.m3u8
+
+###### Japan ################
+#EXTINF:-1 tvg-id="tvNMoviesJapan.hk" tvg-logo="https://i.imgur.com/c4XvwO2.png" group-title="Japan",tvN Movies (Indonesian Subtitle) (576p)
+http://210.210.155.37/dr9445/h/h21/index.m3u8
+#EXTINF:-1 tvg-id="JOAYDTV.jp" tvg-logo="https://i.imgur.com/I11J99B.png" group-title="Japan",ABC (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02
+#EXTINF:-1 tvg-id="Animax.jp" tvg-logo="https://ri.zzls.xyz/bYX8NqT.png" group-title="Japan",Animax (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
+#EXTINF:-1 tvg-id="BSAsahi.jp" tvg-logo="https://i.imgur.com/huXFL3A.png" group-title="Japan",BS Asahi (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
+#EXTINF:-1 tvg-id="BSFuji.jp" tvg-logo="https://i.imgur.com/aDdwjjc.png" group-title="Japan",BS Fuji TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
+#EXTINF:-1 tvg-id="BSNipponTV.jp" tvg-logo="https://i.imgur.com/D8lhZCI.png" group-title="Japan",BS Nippon TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
+#EXTINF:-1 tvg-id="BSShochikuTokyu.jp" tvg-logo="https://i.imgur.com/pSKCgvv.png" group-title="Japan",BS Shochiku Tokyu (1080p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31
+#EXTINF:-1 tvg-id="BSTBS.jp" tvg-logo="https://i.imgur.com/h20eGKq.png" group-title="Japan",BS TBS (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
+#EXTINF:-1 tvg-id="BSTVTokyo.jp" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/BSTVTokyo_2024logo-TeletoVer.svg/revision/latest/scale-to-width-down/512" group-title="Japan",BS TV Tokyo (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
+#EXTINF:-1 tvg-id="DisneyChannel.jp" tvg-logo="https://i.imgur.com/VSq7b5E.jpg" group-title="Japan",Disney Channel Japan (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
+#EXTINF:-1 tvg-id="DisneyJunior.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="Japan",Disney Junior Japan (400p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
+#EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-logo="https://i.imgur.com/sEWDmMD.png" group-title="Japan",Fuji TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
+#EXTINF:-1 tvg-id="FujiTVNEXT.jp" tvg-logo="https://i.imgur.com/j95aeSA.png" group-title="Japan",Fuji TV NEXT (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26
+#EXTINF:-1 tvg-id="JSPORTS1.jp" tvg-logo="https://i.imgur.com/vEpjLnj.png" group-title="Japan",J Sports 1 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
+#EXTINF:-1 tvg-id="JSPORTS2.jp" tvg-logo="https://i.imgur.com/g1GLVH2.png" group-title="Japan",J Sports 2 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
+#EXTINF:-1 tvg-id="JSPORTS3.jp" tvg-logo="https://i.imgur.com/xdI361E.png" group-title="Japan",J Sports 3 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
+#EXTINF:-1 tvg-id="JSPORTS4.jp" tvg-logo="https://i.imgur.com/fBcyZNL.png" group-title="Japan",J Sports 4 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
+#EXTINF:-1 tvg-id="MTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png" group-title="Japan",MTV Japan (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
+#EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://i.imgur.com/HmCI5mk.png" group-title="Japan",Music Japan TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
+#EXTINF:-1 tvg-id="NHKBS.jp" tvg-logo="https://i.imgur.com/t0uZcSR.png" group-title="Japan",NHK BS (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
+#EXTINF:-1 tvg-id="NHKBSP4K.jp" tvg-logo="https://i.imgur.com/uvPpFo5.png" group-title="Japan",NHK BSP4K (1080p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
+#EXTINF:-1 tvg-id="JOABDTV.jp" tvg-logo="https://i.imgur.com/WxtftlO.png" group-title="Japan",NHK E (Tokyo) (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
+#EXTINF:-1 tvg-id="JOAKDTV.jp" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="Japan",NHK G (Tokyo) (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
+#EXTINF:-1 tvg-id="JOAXDTV.jp" tvg-logo="https://i.imgur.com/IxD8V5X.png" group-title="Japan",Nippon TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
+#EXTINF:-1 tvg-id="JORXDTV.jp" tvg-logo="https://i.imgur.com/dUn2GRn.png" group-title="Japan",TBS (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
+#EXTINF:-1 tvg-id="JOMXDTV.jp" tvg-logo="https://i.imgur.com/0i5rDRN.png" group-title="Japan",Tokyo MX1 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08
+
+###### South Korea ################
+#EXTINF:-1 tvg-id="AlltheKPop.kr" tvg-logo="https://i.imgur.com/IFLXi6n.png" group-title="Korea",All The K-POP (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCPde4guD9yFBRzkxk2PatoA.m3u8
+#EXTINF:-1 tvg-id="KBS1TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="Korea",KBS 1TV [Not 24/7]
+http://mytv.dothome.co.kr/ch/public/1.php
+#EXTINF:-1 tvg-id="KBS2TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" group-title="Korea",KBS 2TV [Not 24/7]
+http://mytv.dothome.co.kr/ch/public/3.php
+#EXTINF:-1 tvg-id="KBSDrama.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/512px-KBS_DRAMA.svg.png" group-title="Korea",KBS Drama (480p)
+http://mytv.dothome.co.kr/ch/catv/2.php
+#EXTINF:-1 tvg-id="KBSJoy.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/512px-KBS_JOY.svg.png" group-title="Korea",KBS Joy (480p)
+http://mytv.dothome.co.kr/ch/catv/3.php
+#EXTINF:-1 tvg-id="KBSKids.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KBS_kids.svg/512px-KBS_kids.svg.png" group-title="Korea",KBS Kids (480p)
+http://mytv.dothome.co.kr/ch/catv/6.php
+#EXTINF:-1 tvg-id="KBSLife.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KBS_Life.svg/512px-KBS_Life.svg.png" group-title="UKorea",KBS Life (480p)
+http://mytv.dothome.co.kr/ch/catv/5.php
+#EXTINF:-1 tvg-id="KBSStory.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/512px-KBS_Story.svg.png" group-title="Korea",KBS Story (480p)
+http://mytv.dothome.co.kr/ch/catv/4.php
+#EXTINF:-1 tvg-id="HLCQDTV.kr" tvg-logo="https://i.imgur.com/HCbvAiM.png" group-title="Korea",MBC Daejeon (대전 MBC) (720p) [Not 24/7]
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="HLDGDTV.kr" tvg-logo="https://i.imgur.com/gaBq1Lz.png" group-title="Korea",SBS KNN (1080p) [Not 24/7]
+https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
+#EXTINF:-1 tvg-id="TBSTV.kr" tvg-logo="https://i.imgur.com/iOnWS6V.png" group-title="Korea",TBS Seoul (720p)
+https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
