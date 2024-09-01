@@ -1,7 +1,8 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz" refresh="3600"
+#EXTM3U refresh="3600"
 
 ###### NASIONAL ################
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://i.postimg.cc/HL3wtXZ2/antv.png" group-title="Nasional" tvg-shift="+9",ANTV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch108.m3u8
 
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV 2" tvg-logo="https://i.postimg.cc/HL3wtXZ2/antv.png" group-title="Nasional" tvg-shift="+9",ANTV 2
@@ -16,7 +17,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://i.postimg.cc/3r0L3fbQ/gtv.png" group-title="Nasional" tvg-shift="+9",GTV
 http://metatvpro.xyz:25461/live/J2781/5030/109.ts|user-agent=Mozilla/5.0
 
-#EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV HD" tvg-logo="https://i.postimg.cc/3r0L3fbQ/gtv.png" group-title="Nasional" tvg-shift="+9",GTV HD
+#EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV HD" tvg-logo="https://i.postimg.cc/3r0L3fbQ/gtv.png" group-title="Nasional" tvg-shift="+9",GTV 2
 http://xtv.ooo:8080/live/Ijaaz123/aijaz321/350954.ts
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://i.postimg.cc/VkqBd3X2/indosiar.png" group-title="Nasional" tvg-shift="+9",Indosiar
@@ -37,12 +38,14 @@ https://streaming.indihometv.com/atm/DASH/inews/manifest.mpd
 https://ythls.armelin.one/channel/UC5BMIWZe9isJXLZZWPWvBlg.m3u8
 
 #EXTINF:-1 tvg-id="Kompas.TV.id" tvg-name="KOMPAS TV 2" tvg-logo="https://i.imgur.com/bD6UHeZ.png" group-title="Nasional" tvg-shift="+9",KOMPAS TV 2
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch102.m3u8
 
 #EXTINF:-1 tvg-id="Metro.TV.id" tvg-name="Metro TV" tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="Nasional" tvg-shift="+9",Metro TV
 https://ythls.armelin.one/channel/UCzl0OrB3-ehunyotIQvK77A.m3u8
 
 #EXTINF:-1 tvg-id="Metro.TV.id" tvg-name="METRO TV 2" tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="Nasional" tvg-shift="+9",METRO TV 2
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch110.m3u8
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNC TV" tvg-logo="https://i.postimg.cc/26Gy142h/mnctv.png" group-title="Nasional" tvg-shift="+9",MNC TV
@@ -52,33 +55,45 @@ http://metatvpro.xyz:25461/live/J2781/5030/23531.ts|user-agent=Mozilla/5.0
 https://ythls.armelin.one/channel/UC1-ATnDVEwKT6-0aEeJ2ibA.m3u8
 
 #EXTINF:-1 tvg-id="NET.TV.id" tvg-name="NET. 2" tvg-logo="https://i.imgur.com/RPT8O12.png" group-title="Nasional" tvg-shift="+9",NET. 2
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch114.m3u8
 
 #EXTINF:-1 tvg-id="Nusantara.TV.id" tvg-name="Nusantara TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png" group-title="Nasional" tvg-shift="+9",Nusantara TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV" tvg-logo="https://i.imgur.com/dlsv1sl.png" group-title="Nasional" tvg-shift="+9",RTV
 https://cdn09jtedge.indihometv.com/joss/130/rtv/index.m3u8
 
 #EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV 2" tvg-logo="https://i.imgur.com/dlsv1sl.png" group-title="Nasional" tvg-shift="+9",RTV 2
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch115.m3u8
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://client.lancartech.co.id/logo_new/RCTI.png" group-title="Nasional" tvg-shift="+9",RCTI
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+http://metatvpro.xyz:25461/live/J2781/5030/100.ts|user-agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI 2" tvg-logo="https://client.lancartech.co.id/logo_new/RCTI.png" group-title="Nasional" tvg-shift="+9",RCTI 2
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-user-agent=android-R+
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV HD" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be4d55ce58dd/7862982cb44d4e8bbc61a630beca66f6.png" group-title="Nasional" tvg-shift="+9",SCTV HD
 http://metatvpro.xyz:25461/live/J2781/5030/101.ts|user-agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV 2" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be4d55ce58dd/7862982cb44d4e8bbc61a630beca66f6.png" group-title="Nasional" tvg-shift="+9",SCTV 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5874021e33f49d4dac5cd55344b0d74:7b49f3eecf4e9336ffdb9a549d2ee781
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
 https://gatotkaca007.serv00.net/red/play.m3u8?id=204&type=hls
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans7" tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="Nasional" tvg-shift="+9",Trans7
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans7 2" tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="Nasional" tvg-shift="+9",Trans7 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
 https://cempedak-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 #EXTINF:-1 tvg-id="TRANS.TV.id" tvg-name="Trans TV" tvg-logo="https://client.lancartech.co.id/logo_new/Trans_TV.png" group-title="Nasional" tvg-shift="+9",Trans TV
@@ -91,21 +106,25 @@ http://xtv.ooo:8080/live/Ijaaz123/aijaz321/351041.ts
 https://ythls.armelin.one/channel/UCER4rvDnRBPr_ncYW4UCZjg.m3u8
 
 #EXTINF:-1 tvg-id="TVOne.id" tvg-name="tvOne 2" tvg-logo="https://thumb.viva.co.id/media/frontend/thumbs3/2011/02/17/105261_logo-tvone_1265_711.jpg" group-title="Nasional" tvg-shift="+9",tvOne 2
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch109.m3u8
 
 #EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="Nasional" tvg-shift="+9",TVRI Nasional
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
 
 #EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Nasional 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="Nasional" tvg-shift="+9",TVRI Nasional 2
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch103.m3u8
 
 #EXTINF:-1 tvg-id="TVRISport.id" tvg-name="TVRI Sport" tvg-logo="https://i.postimg.cc/rFKcGqwx/TVRI-Sport-2022.png" group-title="Nasional" tvg-shift="+9",TVRI Sport
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 
 #EXTINF:-1 tvg-id="TVRISport.id" tvg-name="TVRI Sport 2" tvg-logo="https://i.postimg.cc/rFKcGqwx/TVRI-Sport-2022.png" group-title="Nasional" tvg-shift="+9",TVRI Sport 2
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch105.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VTV" tvg-logo="https://i.ytimg.com/vi/-e5oOiMZ2zI/maxresdefault.jpg" group-title="Nasional" tvg-shift="+9",VTV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch107.m3u8
 
 ###### Japan ################
@@ -135,6 +154,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
 
 #EXTINF:-1 tvg-id="FujiTVNEXT.jp" tvg-name="Fuji TV NEXT (544p)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Next-fujitv_logo.jpg/revision/latest?cb=20240314232144" group-title="Japan" tvg-shift="+9",Fuji TV NEXT (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26
+
 #EXTINF:-1 tvg-id="MTV.jp" tvg-name="MTV Japan (544p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png" group-title="Japan" tvg-shift="+9",MTV Japan (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
 
@@ -213,6 +233,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 
 #EXTINF:-1 tvg-id="disneyjr" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Disney_Junior_2019_logo.png/640px-Disney_Junior_2019_logo.png" group-title="Cartoon" tvg-shift="+9",Disney Junior
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
 
 ###### Sports ################
@@ -229,19 +250,25 @@ http://vo01.mohdtv.com:8880/ALLChannelsDC91BF69C9B8/13736117/59218
 http://vo01.mohdtv.com:8880/ALLChannelsDC91BF69C9B8/13736117/59217
 
 #EXTINF:-1 tvg-id="BeINSPORTS3.fr" tvg-name="bein sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/1200px-Logo_bein_sports_3.png" group-title="Sports" tvg-shift="+9",bein sports 3
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/901.ts
 
 #EXTINF:-1 tvg-id="id" tvg-name="bein sports 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_bein_sports_4.png/1200px-Logo_bein_sports_4.png" group-title="Sports" tvg-shift="+9",bein sports 4
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/902.ts
 
 #EXTINF:-1 tvg-id="id" tvg-name="bein sports 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFiwjxKQNbDaxY-ArbfmOR1MU2eSaVXFQV7w&s" group-title="Sports" tvg-shift="+9",bein sports 5
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/905.ts
 
 #EXTINF:-1 tvg-id="id" tvg-name="bein sports 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6oBka4OaGocyKXunfcs8xx01ksm8F0iOt8w&s" group-title="Sports" tvg-shift="+9",bein sports 6
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/904.ts
 
 #EXTINF:-1 tvg-id="id" tvg-name="bein sports 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Logo-Beinsports-7MAX.png" group-title="Sports" tvg-shift="+9",bein sports 7
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/907.ts
+
 #EXTINF:-1 tvg-id="JSPORTS1.jp" tvg-name="J Sports 1 (544p)" tvg-logo="https://i.imgur.com/vEpjLnj.png" group-title="Sports" tvg-shift="+9",J Sports 1 (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
 
