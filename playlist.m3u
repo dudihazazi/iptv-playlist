@@ -1,9 +1,4 @@
 #EXTM3U refresh="3600" x-tvg-url=""
-
-#EXTVLCOPT:http-user-agent=VLC/3.0.18 (Linux; Android 10)
-
-###### INDONESIA ################
-
 #EXTINF:-1 tvg-id="AKTV.id" tvg-country="ID" tvg-logo="https://i.imgur.com/DUY5WXf.png" tvg-shift="+9",AKTV (720p) [Not 24/7]
 https://e.siar.us/live/aktv.m3u8
 
